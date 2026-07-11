@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support
+    url: mailto:support@anis.app
+    about: General questions or help using Anis.
+  - name: Anis website
+    url: https://anis-site.pages.dev
+    about: Learn more about Anis.
