@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.2.0/anis-0.2.0-android.apk",
+  "md5": "f436899bfca3cd85023cc7503d6ae2a3",
+  "notes": "\n- **الفقاعة العائمة والكبسولة**: فقاعة صغيرة تطفو فوق كل التطبيقات — ضغطة واحدة تبدأ التسجيل، وتتحوّل أثناء التسجيل إلى كبسولة فيها المؤقّت وموجات الصوت وزرّا الإيقاف والإلغاء. تُفعَّل من الإعدادات → «الفقاعة العائمة» (تتطلّب إذن الظهور فوق التطبيقات).\n- **مربّع الإعدادات السريعة**: أضِف زرّ «أنيس» إلى لوحة الإعدادات السريعة لبدء التسجيل بسرعة.\n- تحسينات داخلية على خط المعالجة. ملاحظة: التفريغ في هذا الإصدار لا يزال تجريبيًا (نصوص تجريبية) في نسخة الإصدار؛ التفريغ الحقيقي يعمل في نسخ التطوير المزوّدة بمفتاح.\n\nNew in this build: a floating bubble + recording capsule you can use over any app, and a Quick Settings tile. Transcription remains mock in the release APK (real local transcription runs only in dev builds with a key).",
+  "pub_date": "2026-07-12T22:05:06Z"
+}
