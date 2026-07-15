@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.0/anis-0.7.0-android.apk",
-  "md5": "a1d665d4531c5fdcf85e29b9ea825915",
-  "notes": "\n- **أرسِل ملاحظاتك من داخل أنيس**: زر جديد \"إرسال ملاحظات\" في الإعدادات لإرسال بلاغ عن مشكلة أو فكرة أو ملاحظة عامة مباشرةً إلى الفريق.\n- **أبلِغ عن تفريغ غير صحيح**: صار في الشاشة الرئيسية زر للإبلاغ عن خطأ في نتيجة التفريغ (كلمات خاطئة، كتابة مصطلحات إنجليزية بحروف عربية، نص مُختلق، تنسيق، أو ترجمة)، ويُرسَل النص المُفرَّغ والأمر المستخدَم مع البلاغ تلقائيًا.\n- **تحسين اللصق التلقائي**: مسار إدراج جديد عبر قناة لوحة الإدخال (InputMethod) في أندرويد 13 فأحدث، لتغطية تطبيقات أكثر كانت لا يُلصَق فيها النص تلقائيًا.\n\nNew in this build: send feedback from inside Anis (a \"Send feedback\" button in Settings), and report a bad transcription from the main screen (wrong words, English written in Arabic letters, made-up text, formatting, translation) with the transcript and Command attached automatically. Plus improved auto-paste: a new insertion path via the InputMethod channel on Android 13+ that covers more apps where text was not being inserted automatically.",
-  "pub_date": "2026-07-15T00:31:13Z"
+  "version": "0.7.1",
+  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.1/anis-0.7.1-android.apk",
+  "md5": "ae9a278b8f575978027be0753826ac77",
+  "notes": "\n- **تحسين شفافية النوافذ العائمة في الوضع الداكن**: تم تعديل خلفية النوافذ العائمة (كبطاقات الملاحظات واللغة والخصوصية والتخصيص) لتصبح شبه معتمة وذات حدود وظلال واضحة لمنع تداخل النصوص وتحسين مقروئيتها في الوضع الداكن.\n- **إضافة تأثيرات صوتية للتسجيل**: تم إضافة رنات صوتية قصيرة مدمجة (نغمة البدء، الإيقاف، والإلغاء) عند التحكم في التسجيل عبر الفقاعة العائمة لتقديم إشارات صوتية واضحة دون الحاجة للنظر إلى الشاشة.\n\nNew in this build: improved modal sheet transparency in Dark Mode (feedback, language picker, accessibility, and vocabulary modals now use mostly opaque backgrounds with hairlines and shadows to prevent text overlaps and readability issues); plus added short native sound effects (beeps) on starting, stopping, and cancelling bubble recording sessions to provide clear, eyes-free audio cues.",
+  "pub_date": "2026-07-15T11:08:12Z"
 }
