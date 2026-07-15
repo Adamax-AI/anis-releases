@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
-  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.1/anis-0.7.1-android.apk",
-  "md5": "ae9a278b8f575978027be0753826ac77",
-  "notes": "\n- **تحسين شفافية النوافذ العائمة في الوضع الداكن**: تم تعديل خلفية النوافذ العائمة (كبطاقات الملاحظات واللغة والخصوصية والتخصيص) لتصبح شبه معتمة وذات حدود وظلال واضحة لمنع تداخل النصوص وتحسين مقروئيتها في الوضع الداكن.\n- **إضافة تأثيرات صوتية للتسجيل**: تم إضافة رنات صوتية قصيرة مدمجة (نغمة البدء، الإيقاف، والإلغاء) عند التحكم في التسجيل عبر الفقاعة العائمة لتقديم إشارات صوتية واضحة دون الحاجة للنظر إلى الشاشة.\n\nNew in this build: improved modal sheet transparency in Dark Mode (feedback, language picker, accessibility, and vocabulary modals now use mostly opaque backgrounds with hairlines and shadows to prevent text overlaps and readability issues); plus added short native sound effects (beeps) on starting, stopping, and cancelling bubble recording sessions to provide clear, eyes-free audio cues.",
-  "pub_date": "2026-07-15T11:08:12Z"
+  "version": "0.7.2",
+  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.2/anis-0.7.2-android.apk",
+  "md5": "22e362e3a5ac2520830479efb6a2c8fc",
+  "notes": "\n- **تصميم جديد لأزرار التحكم**: تم تحسين تصميم أزرار النسخ والمشاركة والإبلاغ لتكون رموزًا دائرية أنيقة بمقاس 44×44 بكسل لسهولة الاستخدام والتوافق مع معايير الوصول، مع إظهار إشعار تأكيدي عند نسخ النص.\n\nUpdates: Android transcription action buttons polished to sleek, circular icon-only 44x44px buttons for better accessibility and style, with a Toast notification on successful copy.",
+  "pub_date": "2026-07-15T16:08:23Z"
 }
