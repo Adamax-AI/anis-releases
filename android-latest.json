@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2",
-  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.2/anis-0.7.2-android.apk",
-  "md5": "22e362e3a5ac2520830479efb6a2c8fc",
-  "notes": "\n- **تصميم جديد لأزرار التحكم**: تم تحسين تصميم أزرار النسخ والمشاركة والإبلاغ لتكون رموزًا دائرية أنيقة بمقاس 44×44 بكسل لسهولة الاستخدام والتوافق مع معايير الوصول، مع إظهار إشعار تأكيدي عند نسخ النص.\n\nUpdates: Android transcription action buttons polished to sleek, circular icon-only 44x44px buttons for better accessibility and style, with a Toast notification on successful copy.",
-  "pub_date": "2026-07-15T16:08:23Z"
+  "version": "0.7.3",
+  "url": "https://github.com/Adamax-AI/anis-releases/releases/download/android-v0.7.3/anis-0.7.3-android.apk",
+  "md5": "acae8fcc7d5f0012ad2a67bfd6e12050",
+  "notes": "\n- **التعرف التلقائي على التطبيق المفتوح لتهيئة النص**: تمكين خدمة الوصول من التعرف على التطبيق النشط في الواجهة لتوجيه الذكاء الاصطناعي لتنسيق النص المفرغ تلقائيًا بما يناسب طبيعة التطبيق (مثال: أسلوب محادثة لواتساب، أسلوب بريد إلكتروني لجي ميل)، مع إمكانية التحكم بها من الإعدادات.\n- **إخفاء الفقاعة العائمة بسحبها**: إمكانية سحب الفقاعة العائمة وإلقائها في منطقة مخصصة في الأسفل لإخفائها مؤقتًا، على أن تُستعاد تلقائيًا عند فتح لوحة المفاتيح مجددًا أو بعد 5 دقائق.\n- **إعادة تصميم الشاشة الرئيسية للمسجل**: واجهة جديدة تحتوي على شعار أنيق، وزر تسجيل رئيسي دائم يتغير تفاعليًا (بدء/إيقاف/معالجة)، مع منتقي الأوامر وبطاقة عرض آخر تفريغ بشكل منظم في الأسفل.\n- **كبسولة وموجات تسجيل أكثر رشاقة**: تقليص ارتفاع كبسولة التسجيل العائمة وتحسين مظهر موجات الصوت لتكون أكثر صغراً وتناسقاً وتماثلاً مع نسخة الكمبيوتر الشخصي.\n- **تجنب تغطية الفقاعة بلوحة المفاتيح**: ترقية هندسية تضمن تحرك الفقاعة العائمة تلقائيًا لتستقر مباشرة فوق لوحة المفاتيح وتجنب حجبها، مع استعادة موقعها الأصلي فور إغلاق لوحة المفاتيح.\n\nUpdates in this release: automatic foreground application detection to tailor the transcription style (WhatsApp -> chat style, Gmail -> email style, etc.); drag-to-dismiss well to temporarily hide the bubble with auto-restore on keyboard open or a 5-minute timer; fully redesigned main recorder screen with persistent mic trigger, Command picker, and clean scrollable last transcript card; slimmed-down capsule height and compact waveform strip; and geometric avoidance to keep the bubble/capsule floating above the soft keyboard.",
+  "pub_date": "2026-07-16T08:31:32Z"
 }
